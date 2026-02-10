@@ -28,11 +28,9 @@ This project is for educational and research purposes only. Using this tool to a
 > - ✅ Replaced hardcoded CSS selectors with generic snapshot extraction
 > - ✅ Added anti-detection measures
 
-<!--
-视频演示 / Demo Video
-在 GitHub 上添加视频链接：
-[![Demo Video](thumbnail.jpg)](https://github.com/your-repo/video-link)
--->
+### 📹 Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red)](https://github.com/user-attachments/assets/2c2f0ae3-89e9-4b61-8406-9e6c40b49977)
 
 ---
 
@@ -314,11 +312,9 @@ Contributions welcome! Please open an issue or PR.
 > - ✅ 用通用快照提取替换硬编码 CSS 选择器
 > - ✅ 增强反检测措施
 
-<!--
-视频演示 / Demo Video
-在 GitHub 上添加视频链接：
-[![演示视频](thumbnail.jpg)](https://github.com/your-repo/video-link)
--->
+### 📹 演示视频
+
+[![观看演示](https://img.shields.io/badge/观看-演示-red)](https://github.com/user-attachments/assets/2c2f0ae3-89e9-4b61-8406-9e6c40b49977)
 
 ---
 
@@ -617,7 +613,6 @@ MIT
 ### 🔗 链接
 
 - **GitHub 仓库：** `https://github.com/ifuryst/rednote-mcp`
-- **演示视频：** *(在 GitHub 上添加视频链接)*
 - **原始项目：** [iFurySt/RedNote-MCP](https://github.com/iFurySt/RedNote-MCP.git)
 
 ---
