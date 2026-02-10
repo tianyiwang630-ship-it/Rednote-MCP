@@ -29,9 +29,7 @@ This project is for educational and research purposes only. Using this tool to a
 > - ✅ Added anti-detection measures
 
 <!--
-视频演示 / Demo Video
-在 GitHub 上添加视频链接：
-[![Demo Video](thumbnail.jpg)](https://github.com/your-repo/video-link)
+https://github.com/user-attachments/assets/2c2f0ae3-89e9-4b61-8406-9e6c40b49977
 -->
 
 ---
@@ -315,9 +313,7 @@ Contributions welcome! Please open an issue or PR.
 > - ✅ 增强反检测措施
 
 <!--
-视频演示 / Demo Video
-在 GitHub 上添加视频链接：
-[![演示视频](thumbnail.jpg)](https://github.com/your-repo/video-link)
+https://github.com/user-attachments/assets/2c2f0ae3-89e9-4b61-8406-9e6c40b49977
 -->
 
 ---
