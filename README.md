@@ -28,9 +28,9 @@ This project is for educational and research purposes only. Using this tool to a
 > - ✅ Replaced hardcoded CSS selectors with generic snapshot extraction
 > - ✅ Added anti-detection measures
 
-<!--video demo
-https://github.com/user-attachments/assets/2c2f0ae3-89e9-4b61-8406-9e6c40b49977
--->
+   <!--
+   [![Demo Video](thumbnail.jpg)](https://github.com/your-repo/video-link)
+   -->
 
 ---
 
